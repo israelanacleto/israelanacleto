@@ -10,9 +10,9 @@
 
 
 <div align="justify">
-  <a href="https://github.com/igarashiisrael">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=igarashiisrael&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashiisrael&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <a href="https://github.com/israelanacleto">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=israelanacleto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelanacleto&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
 ### Tecnologias que tenho experiência. / Technologies I have experience with.:
@@ -39,9 +39,9 @@
   
 <div>
   <a href="https://www.linkedin.com/in/israel-anacleto-igarashi-895483130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/igarashiisrael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/israelanacleto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-   ![Snake animation](https://github.com/igarashiisrael/igarashiisrael/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/israelanacleto/israelanacleto/blob/output/github-contribution-grid-snake.svg)
 
    
 
