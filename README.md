@@ -1,48 +1,52 @@
-### Hi! I'm Israel... 
+### Hi! I'm Israel Anacleto 👋
 
-- 🌱 Atualmente cursando o 2º ano de Bacharelado em Engenharia de Software, na FIAP / I'm currently on 2º year Bachelor of Software Engineering at FIAP.
-- 👨‍💻 Trabalho como Desenvolvedor Fullstack na Saúde One Sistemas, voltado para o desenvolvimento de soluções para o setor de saúde. / I work as a Fullstack developer at Saúde One Sistemas, focused on developing solutions for the healthcare sector.
-- 2 anos de experiência com desenvolvimento de soluções .NET / Angular. / 2 years of experience development solutions with .NET and Angular.
-- 🎓 Formado na Turma 3 do bootcamp Oracle Next Education (290 horas), uma parceria Oracle + Alura, abordando Java, POO, HTML, CSS e Typescript. / Graduated in Class 3 of the Oracle Next Education bootcamp (290 hours), an Oracle + Alura partnership, covering Java, OOP, HTML, CSS and Typescript.
-- 🎓 Formado na turma 50 do Bootcamp "Pessoa Desenvolvedora Web - Generation Brasil 03/2022~ 06/2022 (447 horas), abordando Java/Springboot, POO e Angular". / Graduated in Class 50 at Bootcamp "Web Developer Person - Generation Brazil 2022/03 - 2022/06  (447 hours), covering Java/Springboot, OOP and Angular".
-- 🎓Bootcamp SpringBoot DevSuperior - Profº Nelio Alves.
-- 😄 Pronouns: (Ele/Dele/He)
+- 👨‍💻 **Fullstack Developer** at [Saúde One Sistemas](https://www.linkedin.com/in/israel-anacleto) — building healthcare solutions with C# .NET, Angular & SQL Server since Jul/2022.
+- 🎓 **4th year B.Sc. in Software Engineering** at FIAP (graduating Dec/2026) — focus on Clean Architecture, Microservices, Cloud & AI.
+- 🌐 Full-Stack: .NET · Angular · React · Java/Spring Boot · TypeScript.
+- ☁️ Cloud & DevOps: Azure · DevSecOps pipelines · Linux.
+- 🗣️ Languages: Portuguese (native) · English (C1) · Spanish (A2) · Japanese (A2)
+- 😄 Pronouns: Ele/Dele · He/Him
 
+---
 
 <div align="justify">
   <a href="https://github.com/israelanacleto">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=israelanacleto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelanacleto&layout=compact&langs_count=7&theme=ocean_dark"/>
+  </a>
 </div>
-  
-### Tecnologias que tenho experiência. / Technologies I have experience with.:
+
+---
+
+### Technologies & Tools
+
 <div style="display: inline_block"><br>
 
+<img align="center" alt="CSharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
+<img align="center" alt="DotNet" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET"/>
+<img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" title="Angular"/>
+<img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+<img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/>
+<img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/>
+<img align="center" alt="SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server"/>
+<img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+<img align="center" alt="MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+<img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5"/>
+<img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3"/>
+<img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"/>
 
-            
-<img align="center" alt="Rael-CSharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />     
-<img align="center" alt="Rael-DotNet" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-<img align="center" alt="Rael-Angu" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="center" alt="Rael-TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Rael-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Rael-SPRI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="center" alt="Rael-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="center" alt="Rael-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-<img align="center" alt="Rael-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Rael-Boot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+</div>
 
+---
 
- 
-          
-  
-##
-  
 <div>
-  <a href="https://www.linkedin.com/in/israel-anacleto-igarashi-895483130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/israelanacleto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
-   ![Snake animation](https://github.com/israelanacleto/israelanacleto/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/israel-anacleto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://israelanacleto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
+</div>
 
-   
+<br>
 
-  </div>
+![Snake animation](https://github.com/israelanacleto/israelanacleto/blob/output/github-contribution-grid-snake.svg)
