@@ -11,7 +11,7 @@
 
 <div align="center">
   <img height="150cm" src="https://streak-stats.demolab.com/?user=israelanacleto&theme=ocean_dark&hide_border=false"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelanacleto&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="150cm" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=israelanacleto&theme=ocean_dark"/>
 </div>
 
 ---
