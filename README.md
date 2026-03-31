@@ -9,11 +9,9 @@
 
 ---
 
-<div align="justify">
-  <a href="https://github.com/israelanacleto">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=israelanacleto&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="150cm" src="https://streak-stats.demolab.com/?user=israelanacleto&theme=ocean_dark&hide_border=false"/>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelanacleto&layout=compact&langs_count=7&theme=ocean_dark"/>
-  </a>
 </div>
 
 ---
